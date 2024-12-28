@@ -1,0 +1,49 @@
+[33mcommit 7808c35f4fa6f41ad37034ad9cdc1c10d26a87c3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 5d908c5 99d5ede
+Author: vipulpatil-4 <vipul.patil@definelabs.com>
+Date:   Sat Dec 28 11:35:42 2024 +0530
+
+    Merge branch 'main' of https://github.com/vipulpatil-4/practice-repo
+
+[33mcommit 5d908c56f2508a04d57449a982f0650722125333[m
+Merge: 47b5d14 e1fd93d
+Author: vipulpatil-4 <vipul.patil@definelabs.com>
+Date:   Sat Dec 28 11:33:27 2024 +0530
+
+    resloved merge conflict in welcome.txt
+
+[33mcommit 47b5d14e9b8fa97b37621405c7af16ff493c255c[m
+Author: vipulpatil-4 <vipul.patil@definelabs.com>
+Date:   Sat Dec 28 11:27:02 2024 +0530
+
+    Modify welcome.txt on main branch
+
+[33mcommit e1fd93d36cb64e6855bd22d74daf0e35a1c01d9a[m[33m ([m[1;32mwelcome[m[33m)[m
+Author: vipulpatil-4 <vipul.patil@definelabs.com>
+Date:   Sat Dec 28 11:24:37 2024 +0530
+
+    Modify demo.txt on welcome branch
+
+[33mcommit d24d380a6a5df9daef1c23e65124933206cb0678[m
+Author: vipulpatil-4 <vipul.patil@definelabs.com>
+Date:   Sat Dec 28 11:22:49 2024 +0530
+
+    Add demo.txt and welcome.txt
+
+[33mcommit 80eac4ca25087fc423ef981b703389a0eba2e96f[m[33m ([m[1;31morigin/welcome[m[33m, [m[1;31morigin/hello[m[33m, [m[1;32mhello[m[33m, [m[1;32mdemo[m[33m)[m
+Author: vipulpatil-4 <>
+Date:   Sat Dec 28 06:40:48 2024 +0530
+
+    Added hello.txt
+
+[33mcommit dbf62d1d623990d37b054570aec09b2766ae798c[m
+Author: vipulpatil-4 <>
+Date:   Sat Dec 28 06:14:48 2024 +0530
+
+    Initial commit
+
+[33mcommit 99d5edec4e447509e647f9c45a557ec9747ea75f[m
+Author: vipulpatil-4 <vipul.patil@definelabs.com>
+Date:   Fri Dec 27 19:32:13 2024 +0530
+
+    Initial commit
